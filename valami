@@ -1,0 +1,29 @@
+[33mcommit 5a47a723c146e519f7ea15833c4cc93fa87d167d[m[33m ([m[1;36mHEAD -> [m[1;32mbranch-A[m[33m)[m
+Author: peterjozsef <peterjozsef.nagy@edu.bme.hu>
+Date:   Wed Sep 27 17:28:51 2023 +0200
+
+    branch-A change
+
+[33mcommit dda636a893b5dc769b517869f7155b0a922f2951[m[33m ([m[1;31morigin/development[m[33m, [m[1;32mdevelopment[m[33m)[m
+Author: peterjozsef <peterjozsef.nagy@edu.bme.hu>
+Date:   Wed Sep 27 17:15:19 2023 +0200
+
+    All torpedo fires mode done
+
+[33mcommit 12f8e6c7c513e0803c2dc8b810cbffc1430c427a[m
+Author: peterjozsef <144847244+peterjozsef@users.noreply.github.com>
+Date:   Wed Sep 27 16:51:29 2023 +0200
+
+    Update pom.xml
+
+[33mcommit be1d626e502d7192793e2eb68fc10728423b034e[m
+Author: peterjozsef <peterjozsef.nagy@edu.bme.hu>
+Date:   Wed Sep 27 16:47:01 2023 +0200
+
+    Add initial project files
+
+[33mcommit 9243165ba45718e5a77b6b8370743c7355b4f403[m
+Author: peterjozsef <144847244+peterjozsef@users.noreply.github.com>
+Date:   Wed Sep 27 16:28:27 2023 +0200
+
+    Initial commit
